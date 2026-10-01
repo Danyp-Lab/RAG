@@ -1,3 +1,17 @@
+<div align="center">
+
+# 🧠 RAG (Retrieval-Augmented Generation) Code Collection
+### *Architectures, dense/sparse retrieval benchmarks, and production-grade LLM context injection pipelines*
+
+[![Danyp-Lab](https://img.shields.io/badge/Danyp--Lab-AI_Research_Division-00f2fe?style=for-the-badge&logo=github)](https://github.com/Danyp-Lab)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://python.org)
+[![License](https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Milestone-v0.5.0_Hybrid_Search-purple?style=for-the-badge)](#)
+
+</div>
+
+---
+
 # Retrieval-Augmented Generation (RAG) Implementation
 
 Welcome to the code repository for the Retrieval-Augmented Generation (RAG) model implementation. This repository contains the necessary code and documentation to get started with RAG, a powerful model that combines the benefits of dense retrieval and language generation.
